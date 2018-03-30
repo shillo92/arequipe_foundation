@@ -1,0 +1,16 @@
+{
+    "name": "shillo/arequipe_foundation",
+    "description": "Provides the foundation framework for all arequipe products.",
+    "type": "library",
+    "license": "Commercial",
+    "authors": [
+        {
+            "name": "shillo",
+            "email": "sshilo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+      "psr-4": {"Arequipe\\Foundation\\":"src/"}
+    }
+}
